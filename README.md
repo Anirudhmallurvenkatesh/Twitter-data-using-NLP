@@ -13,3 +13,8 @@ Part of speech tagging (PoS tagging) labels tokens as verb, adverb, adjective, n
 Lemmatization & stemming consist of reducing inflected words to their base form to make them easier to analyze.
 
 Stop-word removal removes frequently occuring words that don’t add any semantic value, such as I, they, have, like, yours, 
+
+Preprocessing using Wordcloud
+
+![image](https://user-images.githubusercontent.com/87572274/141611776-37c3863a-6839-4549-8aeb-80c66a35fde8.png)
+
